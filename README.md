@@ -21,4 +21,5 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dark-s8ul&show_icons=true&locale=en" alt="dark-s8ul" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-s8ul&" alt="dark-s8ul" /></p>
+<br/>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-s8ul&" alt="dark-s8ul" /></p>
