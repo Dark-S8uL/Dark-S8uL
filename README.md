@@ -20,7 +20,10 @@
 
 <br/>
 <br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dark-s8ul&show_icons=true&locale=en&theme=dark" alt="dark-s8ul" /></p>
+<!-- <br/>
 <br/>
 <br/>
+<br/> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-s8ul&theme=dark" alt="dark-s8ul" /></p>
