@@ -5,7 +5,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-s8ul&label=Profile%20views&color=0e75b6&style=flat" alt="dark-s8ul" /> </p>
 <br/>
-- 🌱 I’m currently learning **React Native, MongoDB**
+- 🌱 I’m currently learning **React, MongoDB**
 <br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
