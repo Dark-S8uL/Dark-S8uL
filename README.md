@@ -69,21 +69,21 @@
     </td>
   </tr>
 </table>
+<!--
 <div align="right">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-s8ul&show_icons=true&locale=en&theme=dark" alt="dark-s8ul" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-s8ul&theme=dark" alt="dark-s8ul" /></p>
 </div>
+-->
 
 </div>
 
 <br/>
 <br/>
 <br/>
-<!--
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=dark-s8ul&show_icons=true&locale=en&theme=dark" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-s8ul&theme=dark" width="48%" alt="GitHub Streak" />
 </div>
--->
 
 
